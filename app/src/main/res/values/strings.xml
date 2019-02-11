@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">局域网配置</string>
+    <dimen name="txt_size">14sp</dimen>
+</resources>
